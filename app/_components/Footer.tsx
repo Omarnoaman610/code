@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/images/freshcart-logo.svg'
+import logo from '../../src/assets/images/freshcart-logo.svg'
 import Image from 'next/image'
 
 

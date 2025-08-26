@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
-import logo from '../../assets/images/freshcart-logo.svg'
 import Image from 'next/image'
+import logo from '../../src/assets/images/freshcart-logo.svg'
 
 export default function Navbar() {
  const links = [

@@ -1,4 +1,5 @@
 import {Encode_Sans_Expanded } from "next/font/google";
+import '../node_modules/@fortawesome/fontawesome-free/css/all.min.css'
 import "./globals.css";
 import Navbar from "./_components/Navbar";
 import Footer from "./_components/Footer";
